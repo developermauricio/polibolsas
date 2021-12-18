@@ -1,0 +1,37 @@
+/*
+ Theme Name:     Fortuna Child
+ Description:    Fortuna Child Theme
+ Author:         BlueOwlCreative
+ Template:       fortuna
+
+*/
+ 
+@import url("../fortuna/style.css");
+ 
+ 
+
+/* Theme customization starts here */
+
+#menu > ul > li.active > div{
+ opacity:0.98 !important;
+}
+#menu > ul > li > div{
+background:#fff !important;
+  background:rgba(255, 255, 255, 0.98)!important;
+}
+
+.custom_menu_4 #menu > ul > li div{
+  background:rgba(255, 255, 255, 0.98) !important;
+}
+.custom_menu_4 #menu > ul > li > div{
+ background:rgba(255, 255, 255, 0.98) !important;
+}
+
+.custom_menu_4 #menu > ul > li ul > li > a{
+  color:#696868 !important;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.06) !important;
+}
+.custom_menu_4 #menu > ul > li ul > li > a:hover{
+  color:#fff !important;
+  background:#008e39 !important;
+}

@@ -1,0 +1,36 @@
+[23-Mar-2021 00:25:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/funxcomm/public_html/polsa2/polibolsas.com.co/wp-content/themes/fortuna/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/funxcomm/public_html/polsa2/polibolsas.com.co/wp-content/themes/fortuna/index.php on line 9
+[02-Apr-2021 16:48:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/funxcomm/public_html/polsa2/polibolsas.com.co/wp-content/themes/fortuna/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/funxcomm/public_html/polsa2/polibolsas.com.co/wp-content/themes/fortuna/index.php on line 9
+[02-Apr-2021 18:38:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/funxcomm/public_html/polsa2/polibolsas.com.co/wp-content/themes/fortuna/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/funxcomm/public_html/polsa2/polibolsas.com.co/wp-content/themes/fortuna/index.php on line 9
+[04-Apr-2021 07:48:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/funxcomm/public_html/polsa2/polibolsas.com.co/wp-content/themes/fortuna/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/funxcomm/public_html/polsa2/polibolsas.com.co/wp-content/themes/fortuna/index.php on line 9
+[05-Apr-2021 07:48:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/funxcomm/public_html/polsa2/polibolsas.com.co/wp-content/themes/fortuna/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/funxcomm/public_html/polsa2/polibolsas.com.co/wp-content/themes/fortuna/index.php on line 9
+[06-Apr-2021 07:47:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/funxcomm/public_html/polsa2/polibolsas.com.co/wp-content/themes/fortuna/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/funxcomm/public_html/polsa2/polibolsas.com.co/wp-content/themes/fortuna/index.php on line 9
+[08-Apr-2021 07:47:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/funxcomm/public_html/polsa2/polibolsas.com.co/wp-content/themes/fortuna/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/funxcomm/public_html/polsa2/polibolsas.com.co/wp-content/themes/fortuna/index.php on line 9
+[08-Apr-2021 10:30:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/funxcomm/public_html/polsa2/polibolsas.com.co/wp-content/themes/fortuna/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/funxcomm/public_html/polsa2/polibolsas.com.co/wp-content/themes/fortuna/index.php on line 9
+[22-Jun-2021 04:13:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/funxcomm/public_html/polsa2/polibolsas.com.co/wp-content/themes/fortuna/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/funxcomm/public_html/polsa2/polibolsas.com.co/wp-content/themes/fortuna/index.php on line 9

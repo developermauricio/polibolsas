@@ -1,0 +1,3 @@
+[15-May-2021 03:13:24 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/funxcomm/public_html/polsa2/polibolsas.com.co/wp-content/plugins/revslider/includes/operations.class.php on line 2758
+[15-May-2021 03:13:24 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/funxcomm/public_html/polsa2/polibolsas.com.co/wp-content/plugins/revslider/includes/operations.class.php on line 2762
+[15-May-2021 03:13:24 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/funxcomm/public_html/polsa2/polibolsas.com.co/wp-content/plugins/revslider/includes/output.class.php on line 3684
